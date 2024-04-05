@@ -1,0 +1,1 @@
+The isNaN() function in JavaScript is used to determine whether a value is "Not-a-Number" (NaN). It takes a single argument and returns true if the argument is not a valid number; otherwise, it returns false.
